@@ -10,3 +10,8 @@ body{
 nav{
     background-color: rgb(52, 224, 230);
 }
+
+categorias {
+    display: -webkit-flex;
+    display: flex;
+  }
