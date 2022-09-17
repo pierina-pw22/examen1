@@ -10,3 +10,9 @@ thead{
 .fila4{
     background-color: gray;
 }
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
