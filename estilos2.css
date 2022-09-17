@@ -1,0 +1,8 @@
+#cabecera{
+        display: -webkit-flex;
+        display: flex;
+}
+
+#nav{
+    background-color: cadetblue;
+}
